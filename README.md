@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hello 👋 
+👌 I am currently a software engineering student at Ajou University in South Korea 🇰🇷 
+🙋 Still very new to GitHub and just started familiarizing with the platform.
+👀 Super passionate about software, technology, football and F1. 
+Looking for projects to participate in!
 <!--
 **kaunghko/kaunghko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
